@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PTC
+Comment=PTC P2P Cryptocurrency
+Comment[fr]=PTC, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=PTC, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/PTC-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/PTC;
+Categories=Office;

@@ -1,0 +1,2 @@
+debian/bin/PTCd usr/bin
+src/PTCd usr/lib/PTC
