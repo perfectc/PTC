@@ -30,3 +30,9 @@ in this manner will have their corresponding issue labeled 'stagnant'.
 Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labeled 'stale'.
+<<<<<<< HEAD
+=======
+# ptc
+# ptc
+# ptc
+>>>>>>> 16c0b497d17a26337ee2b9d46c6d83b5a57aedb3
